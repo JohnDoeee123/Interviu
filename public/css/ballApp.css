@@ -1,0 +1,14 @@
+.showDigit {
+border-radius: 50%;
+font-size: 15px;
+color: black;
+}
+#ballNo {
+max-width: 3em;
+}
+.aLink {
+	color: white;
+}
+.breakMe {
+	word-break: break-all;
+}
