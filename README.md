@@ -34,12 +34,14 @@ Aceasta inseamna ca avem 7 bile de culoarea 0, 4 bile de culoarea 1, 3 bile de c
 De exemplu:
 7 de la indexul 0, 2 de la indexul 3
 
-Daca distributia minima < n atunci se creeaza un rand al matricii ordonate folosind toate elementele din distributia minima si completeaza pana la n cu elementele din distributia maxima. //if (low.val < noOfColors)
+Daca distributia minima < n atunci se creeaza un rand al matricii ordonate folosind toate elementele din distributia minima si se completeaza pana la n cu elementele din distributia maxima. //if (low.val < noOfColors)
+
 Altfel se creeaza un rand al matricii ordonate folosind n elemente din distributia minima.
 
 In exemplul nostru primul rand al matricii ordonate va fi 3,3,0,0.
 
 4. Se actualizeaza distributia
+
 In exemplul nostru, la prima iteratie noua distributie va fi:
 [5,4,3,0]
 
