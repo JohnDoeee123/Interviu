@@ -3,12 +3,15 @@ border-radius: 50%;
 font-size: 15px;
 color: black;
 }
+
 #ballNo {
 max-width: 3em;
 }
+
 .aLink {
-	color: white;
+color: white;
 }
+
 .breakMe {
-	word-break: break-all;
+word-break: break-all;
 }

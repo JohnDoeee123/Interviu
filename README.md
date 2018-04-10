@@ -54,6 +54,6 @@ In exemplul nostru matricea ordonata  va fi:
 
 # Informatii suplimentare
 
-Codul sursa algoritmului se gaseste in fisierul public/js/logicModule.js
+Codul sursa al algoritmului se gaseste in fisierul public/js/logicModule.js
 
 
