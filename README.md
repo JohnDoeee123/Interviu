@@ -17,9 +17,9 @@ Sa se dezvolte o aplicatie care rezolva urmatoarea problema:
 Exemplu de matrice 4X4, cu 4 culori, generata aleator:
 
 <p>3,1,1,0,</p>
-3,0,0,0,
-0,0,1,1,
-2,2,2,0
+<p>3,0,0,0,</p>
+<p>0,0,1,1,</p>
+<p>2,2,2,0</p>
 
 Fiecare culoare este reprezentata de o cifa din intervalul 0-3.
 
@@ -47,10 +47,10 @@ In exemplul nostru, la prima iteratie noua distributie va fi:
 
 In exemplul nostru matricea ordonata  va fi:
 
-3,3,0,0,
-2,2,2,0,
-0,0,0,0,
-1,1,1,1
+<p>3,3,0,0,</p>
+<p>2,2,2,0,</p>
+<p>0,0,0,0,</p>
+<p>1,1,1,1</p>
 
 # Informatii suplimentare
 
