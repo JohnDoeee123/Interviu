@@ -13,8 +13,8 @@ class CreateInterviuTable extends Migration {
 	public function up() {
 		Schema::create('interviu', function (Blueprint $table) {
 			$table->increments('id');
-			$table->string('random_matrix');
-			$table->string('reordered_matrix');
+			$table->string('random_matrix', 255);
+			$table->string('reordered_matrix', 255);
 			$table->timestamps();
 		});
 	}
