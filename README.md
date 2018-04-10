@@ -16,7 +16,7 @@ Sa se dezvolte o aplicatie care rezolva urmatoarea problema:
 
 Exemplu de matrice 4X4, cu 4 culori, generata aleator:
 
-3,1,1,0,
+<p>3,1,1,0,</p>
 3,0,0,0,
 0,0,1,1,
 2,2,2,0
